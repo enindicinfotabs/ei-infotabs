@@ -1,5 +1,3 @@
-# EI-InfoTabS
-
 ![EI-InfoTabS Logo](./logo.png)
 
 The Official dataset for the NAACL 2022 Main Conference Oral titled, ["Bilingual Tabular Inference: A Case Study on Indic Languages"](https://aclanthology.org/2022.naacl-main.295/), containing Hypotheses in 11 Indian Languages i.e. Assamese (as), Bengali (bn), Gujarati (gu), Hindi(hi), Kannada(kn), Malayalam(ml), Marathi(mr), Oriya(or), Punjabi(pa), Tamil(ta) and Telegu(te).
